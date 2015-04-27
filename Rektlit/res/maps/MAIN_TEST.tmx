@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="25" height="25" tilewidth="16" tileheight="16" nextobjectid="7">
+ <tileset firstgid="1" name="tilesset" tilewidth="16" tileheight="16">
+  <image source="../sprites/tilesset.png" width="128" height="64"/>
+ </tileset>
+ <layer name="Terrain" width="25" height="25">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3DAQkAAAwEofv+pZdjoOCqqar66gEA314jxAkAAA==
+  </data>
+ </layer>
+ <layer name="solids" width="25" height="25">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC8VW7QoAIQgTff93Pu5fHH7rOiEK0m20CoWI5MJARpWjoyub72FzkyOqqwTCj6++vzxnRUukx/Mry5HFz3JUcqb1Wl7Hu8578qLq41Yg/y855k0ODWdb/4vBBscU91xnz0a7H9Y/ufU+vFoUR+UMEBxWrocR7Vc4UH3EjT4l2xtNxwOTuGtYxAkAAA==
+  </data>
+ </layer>
+ <objectgroup name="spawns">
+  <object id="6" gid="6" x="203" y="161.5"/>
+ </objectgroup>
+</map>
